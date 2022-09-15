@@ -2,7 +2,7 @@ const API = 'https://youtube-v31.p.rapidapi.com/search?channelId=UCi_H16KwbdXbpx
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'dcfb3dff69msh3af29e0e8d66ce3p17a582jsn9c5d68be95c7',
+		'X-RapidAPI-Key': '',
 		'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com'
 	}
 };
