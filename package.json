@@ -1,0 +1,26 @@
+{
+  "name": "landingsebas",
+  "version": "1.0.0",
+  "description": "This is the project for the asyncronism in JavaScript from Platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatanprieto10/LandingSebas.git"
+  },
+  "keywords": [
+    "JS",
+    "landing"
+  ],
+  "author": "Sebastian Prieto Tovar (sebasprietotovar@hotmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tatanprieto10/LandingSebas/issues"
+  },
+  "homepage": "https://github.com/Tatanprieto10/LandingSebas#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
